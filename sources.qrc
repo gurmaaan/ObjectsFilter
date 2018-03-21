@@ -7,4 +7,11 @@
     <qresource prefix="/">
         <file>Icons/favicon.png</file>
     </qresource>
+    <qresource prefix="/Icons/ImgViewerWdgtIcons">
+        <file>Icons/ImgViewerWdgtIcons/aspect_ratio_ic.png</file>
+        <file>Icons/ImgViewerWdgtIcons/zoom_in_ic.png</file>
+        <file>Icons/ImgViewerWdgtIcons/zoom_out_ic.png</file>
+        <file>Icons/ImgViewerWdgtIcons/prntscrn_ic.png</file>
+        <file>Icons/ImgViewerWdgtIcons/zoom_ic.png</file>
+    </qresource>
 </RCC>
